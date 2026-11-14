@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meuapefacil.imb.br/sitemap.xml
